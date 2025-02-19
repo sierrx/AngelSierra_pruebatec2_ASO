@@ -43,9 +43,11 @@ Para la prueba, se usó el valor `12345` como `{nuip}`.
 ## Tecnologías Utilizadas
 
 - **Java 1.8**
+- **Docker**
 - **IntelliJ IDEA**
 - **Postman**
 - **Git y GitHub**
+- **Maven 3.5.3**
 
 ## Autor
 
