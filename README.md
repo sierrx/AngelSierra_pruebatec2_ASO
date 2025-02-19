@@ -1,23 +1,24 @@
 # Escenario ASO
-##Descripción
+
+## Descripción
 
 Este proyecto contiene la implementación y pruebas de un servicio en Java, con despliegue de archivos JAR y pruebas realizadas con Postman.
 
-##Despliegue de JARs
+## Despliegue de JARs
 
 La siguiente imagen muestra el despliegue de los JARs utilizados en el proyecto:
-![Despliegue de Jares](Captura de pantalla (27).png)
 
+![Despliegue de JARs](Captura%20de%20pantalla%20(27).png)
 
-##Pruebas con Postman
+## Pruebas con Postman
 
 En la siguiente imagen se puede ver una prueba exitosa realizada con Postman:
-![Postman](Captura de pantalla (28).png)
 
+![Prueba con Postman](Captura%20de%20pantalla%20(28).png)
 
+## JSON Utilizado para la Prueba
 
-##JSON Utilizado para la Prueba
-
+```json
 {
   "details": {
     "offerType": "CARD_HOLDER",
@@ -33,18 +34,21 @@ En la siguiente imagen se puede ver una prueba exitosa realizada con Postman:
     }
   }
 }
+```
 
-##Parámetro Utilizado
+## Parámetro Utilizado
 
-Para la prueba, se usó el valor 12345 como {nuip}.
+Para la prueba, se usó el valor `12345` como `{nuip}`.
 
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
--Java 1.8
--IntelliJ IDEA
--Postman
--Git y GitHub
+- **Java 1.8**
+- **IntelliJ IDEA**
+- **Postman**
+- **Git y GitHub**
 
-##Autor
+## Autor
 
-Angel Sierra
+**Angel Sierra**
+
+
